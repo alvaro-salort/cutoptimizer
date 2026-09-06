@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="480" alt="banner" src="https://github.com/user-attachments/assets/afb3b7ee-e82a-4f6c-bb31-af1afa31eb9e" />
+  <img width="1200" height="480" alt="Sumire nails" src="https://github.com/user-attachments/assets/31b80903-ecf2-4168-9cf1-1034aea75eb8" />
 </p>
 
 
